@@ -6,4 +6,4 @@ Latest Engagement: scanme.nmap.org (May 11, 2026).
 **Scope:** External Reconnaissance
 ![scanme.nmap.org Exec Summary](report-screenshot.png)
 
-📄 **[Download/View the Full Vulnerability Report (PDF)](scanme-report.pdf)**
+📄 **[Download/View the Full Vulnerability Report (PDF)](Lurk_Offensive_Vulnerability_Report_v3.pdf)**
